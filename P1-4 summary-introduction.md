@@ -22,7 +22,7 @@
   - 药物筛选 
   - 单细胞到多细胞的神经活动
   - 神经元-硅 计算平台
-  - BNN（a biological neuronal network）的机器学习方法
+  - BNN（a biological neuronal network）表现的机器学习方法
 - 一个智能系统的sentient behaviour （ (goal-directed) ）的形成需要两个过程
   - 能够通过观测 学习 外界如何影响内部。 通过行为 学习 内部如何影响外部
   - 能够通过内部感官状态 推断出 什么时候采取什么行动 和 行动对外界的影响 
